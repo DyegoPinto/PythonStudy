@@ -1,0 +1,9 @@
+{
+	"Config":
+	{
+	"server": "localhost\\SQLEXPRESS2022",
+	"database": "PYTHON",
+	"username": "python_login",
+	"password": "python"
+	}
+}
